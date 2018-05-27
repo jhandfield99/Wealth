@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:24:15	195617/195617	---M-Z	200	added ('OK')	text/html	date:Sun,%2027%20May%202018%2023:24:15%20GMT	https://www.rbcdirectinvesting.com/open-an-account.html	C:/Customers/RBC/NEWRBI/RBI/www.rbcdirectinvesting.com/open-an-account.html	(from )
+19:24:16	105/105	---M-Z	200	added ('OK')	text/plain	etag:%225293c3a73d6c0%22	https://www.rbcdirectinvesting.com/robots.txt		(from )

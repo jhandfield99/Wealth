@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.rbcdirectinvesting.com	TRUE	/	FALSE	1999999999	TS01903933	0180572c90252a2fe4b9dea79ec4f6d40b9294d958912aaf2053534c0dd92e4508c05436a2
+
